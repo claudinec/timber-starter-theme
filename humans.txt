@@ -1,10 +1,10 @@
 ## Team
 
 Your name or company
-http://yoursite.org
+https://yoursite.org
 @you_on_twitter
 
 
 ## Site
 
-Software: Built with [Timber](http://upstatement.com/timber) by Upstatement
+Software: Built with [Timber](https://upstatement.com/timber) by Upstatement
