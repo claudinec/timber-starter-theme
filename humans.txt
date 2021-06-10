@@ -1,10 +1,10 @@
 ## Team
 
-Your name or company
-https://yoursite.org
-@you_on_twitter
+Claudine Chionh
+https://www.claudinec.net/
+@claudinec
 
 
 ## Site
 
-Software: Built with [Timber](https://upstatement.com/timber) by Upstatement
+Software: Built with WordPress and [Timber](https://upstatement.com/timber) by Upstatement
